@@ -3,3 +3,4 @@
 #to get git to add things:
 print("hello")
 
+# hope you have a nice weekend! :)
